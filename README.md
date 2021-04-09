@@ -1,16 +1,10 @@
-# Vue.JS App using REST API to display country data
+App paises del mundo---Prueba Desarrollador Frond End Hola!! Adjunto prueba Trabajada con VUE.JS / BOOTSTRAP / SASS - sobre NODE.JS
 
-**Features include:**
-- Loading animiation before API request completes
-- Colour theme switchter (Dark Mode)
-- Search bar that automatically filters results
-- Dropdown filter to again filter results
-- Border country links to other countries
-- A back button which is based on user history
-- Slick CSS design
+API: Rest Country API https://restcountries.eu/
 
-This project was built for practice using Vue.JS REST API.
-The app idea comes from https://beta.frontendmentor.io/ - A HTML/CSS/JS coding challenge mentor website with community feedback on your code
+Funcionalidades de la App:
+
+Desplegar toda la información resumida de todos los paises desde la Api, al index de la app, donde se podra tener información más detallada de cada pais al darle click a cada pais. Igualmente se puede filtrar la información desde el index atraves de sus Regiones, o buscando directamente el pais en el buscador. Por último la app permite personalizar la versión de color del app.
 
 
 ## Project setup
